@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Jasa Sadap WA - Sadapphone.com
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
