@@ -3,32 +3,39 @@ Usage
 
 .. _installation:
 
-Installation
+Jasa Sadap WhatsApp Profesional
 ------------
 
-To use Lumache, first install it using pip:
+Jasa Sadap Sosial Media, Facebook, WhatsApp, Instagram, Telegram, Skype, Facebook Messenger dan Snapchat untuk HP iPhone dan Android
+
+
+Pemantauan Ponsel Untuk Android dan iPhone
+
+
+
+
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   Gampang aja. Syaratnya anda bisa akses ke hp target itu. Kecuali kalau metode sadap pakai nomer WA ketika ingin lihat chat WhatsApp Secara Jarak Jauh.
 
-Creating recipes
+Cara Bajak WA Jarak Jauh
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Cara terbaik untuk menjaga anak remaja Anda tetap aman dan pasangan tetap setia langsung dari ponselnya.
 
-.. autofunction:: lumache.get_random_ingredients
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+- Monitoring Aktivitas Sosial Media, Facebook, WhatsApp, Instagram, Telegram, Skype, Facebook Messenger dan Snapchat
+- Rekam data SMS / Gmail, Panggilan Telepon, Lacak GPS, Remote Kamera, Akses File Foto / Video, dan lainnya!
+- Pembayaran satu kali. Update Gratis versi aplikasi sadap (Android dan iPhone)
 
-.. autoexception:: lumache.InvalidKindError
 
-For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+
+
+https://www.sadapphone.com/sadap/
+
+https://twitter.com/sadap_phone
+
+https://www.linkedin.com/company/sadapphone/
 
