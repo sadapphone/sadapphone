@@ -1,17 +1,13 @@
 Jasa Sadap WA - Sadapphone.com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Panduan Terbaru Penyadap WhatsApp, Instagram, FB & Line
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+10 aplikasi sadap WA tanpa rooting & gratis Berikut ini adalah daftar aplikasi penyadap HP terbaik di Android yang perlu kamu coba untuk sadap hp pacar / suami, istri, anggota keluarga maupun orang lain secara jarak jauh.
 
 .. note::
 
-   This project is under active development.
+   Jasa Sadap WA Profesional | www.sadapphone.com
 
 Contents
 --------
