@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Jasa Sadap WA - Sadapphone.com'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
