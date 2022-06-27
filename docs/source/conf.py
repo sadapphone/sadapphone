@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Jasa Sadap WA - Sadapphone.com'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Jasa Sadap WA'
+copyright = '2022, Sadapphone.com'
+author = 'sadapphone'
 
 release = '0.1'
 version = '0.1.0'
